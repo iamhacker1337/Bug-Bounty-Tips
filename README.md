@@ -14,3 +14,4 @@
 | 6   | Put fake values in CSRF Tokens                           |
 | 7   | Change the request method of CSRF Token from the request |
 | 8   | Remove the CSRF Toeken fromt the request                 |
+| 9   | Encode the xss payload multiple times                    |
