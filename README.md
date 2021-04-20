@@ -17,3 +17,4 @@
 | 9   | Encode the xss payload multiple times                    |
 | 10  | Try to use the same CSRF Token for multiple accounts     |
 | 11  | Try to remove the Referrer Header from request           |
+| 12  | Put ' in every input field and check the response        |
