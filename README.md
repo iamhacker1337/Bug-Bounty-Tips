@@ -19,3 +19,4 @@
 | 11  | Try to remove the Referrer Header from request                       |
 | 12  | Put ' in every input field and check the response                    |
 | 13  | Try to request the endpoint from curl rather than only using browser |
+| 14  | Check the request in Burp rather than only in browser                |
